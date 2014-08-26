@@ -1,0 +1,7 @@
+Now the based on the guide we follow the instruction
+First step
+  create directory
+Second step
+  type the command in terminal git init
+Thired step
+  Create a file like this
